@@ -52,5 +52,3 @@ yes
 **Muhammad Sudais Usmani**  
 🌐 [msuport.vercel.app](https://msuport.vercel.app)
 
-Let me know if you need modifications! 🚀
-
